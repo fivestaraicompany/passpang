@@ -1,0 +1,60 @@
+{
+  "app": {
+    "name": "PassPang",
+    "tagline": "QR 티켓, 바코드 및 쿠폰을 위한 스마트 지갑입니다."
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "사용 방법",
+    "download": "Download"
+  },
+  "cta": {
+    "download": "앱 다운로드",
+    "learnMore": "자세히 알아보기"
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "모든 티켓을 한 곳에",
+        "desc": "QR 코드와 바코드를 안전하게 하나의 간단한 앱에 저장하세요."
+      },
+      {
+        "title": "위치 기반 액세스",
+        "desc": "해당 장소에 도착하면 티켓이 자동으로 표시됩니다."
+      },
+      {
+        "title": "빠르고 간편한 입장",
+        "desc": "찾을 필요가 없습니다. 앱을 열고 코드를 즉시 보여주세요."
+      },
+      {
+        "title": "글로벌 지원",
+        "desc": "전 세계 어디서든 사용 가능합니다. 이벤트, 여행, 쿠폰 등 다양한 용도로 활용하세요."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "작동 방식",
+    "steps": [
+      {
+        "title": "티켓 추가",
+        "desc": "QR 코드 또는 바코드를 스캔하거나 가져옵니다."
+      },
+      {
+        "title": "장소로 이동",
+        "desc": "행사장 또는 매장에 도착합니다."
+      },
+      {
+        "title": "제시 및 입장",
+        "desc": "패스가 자동으로 표시됩니다. 보여주고 입장하면 됩니다."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 PassPang. 모든 권리 보유."
+  },
+  "language": {
+    "label": "Language",
+    "select": "언어 선택"
+  }
+}

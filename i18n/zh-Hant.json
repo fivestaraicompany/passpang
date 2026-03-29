@@ -1,0 +1,60 @@
+{
+  "app": {
+    "name": "PassPang",
+    "tagline": "您的智慧錢包，用於儲存 QR 條碼、二維條碼和優惠券。"
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "使用方式",
+    "download": "Download"
+  },
+  "cta": {
+    "download": "下載應用程式",
+    "learnMore": "了解更多"
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "所有票券集中於一處",
+        "desc": "將 QR 條碼和二維條碼安全地儲存在一個簡單的應用程式中。"
+      },
+      {
+        "title": "基於位置的訪問",
+        "desc": "當您到達正確地點時，您的票券會自動顯示。"
+      },
+      {
+        "title": "快速且輕鬆的入場",
+        "desc": "無需搜尋。只需打開應用程式並立即顯示您的條碼。"
+      },
+      {
+        "title": "全球適用",
+        "desc": "可在世界任何地方使用——活動、旅行、優惠券等。"
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "運作方式",
+    "steps": [
+      {
+        "title": "新增票券",
+        "desc": "掃描或匯入您的 QR 碼 / 條碼。"
+      },
+      {
+        "title": "前往地點",
+        "desc": "抵達會場或商店。"
+      },
+      {
+        "title": "展示與入場",
+        "desc": "您的通行證會自動顯示。只需展示即可入場。"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 PassPang。版權所有。"
+  },
+  "language": {
+    "label": "Language",
+    "select": "選擇語言"
+  }
+}

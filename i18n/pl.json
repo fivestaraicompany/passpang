@@ -1,0 +1,60 @@
+{
+  "app": {
+    "name": "PassPang",
+    "tagline": "Inteligentny portfel na kody QR, kody kreskowe i kupony."
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "Jak to działa",
+    "download": "Download"
+  },
+  "cta": {
+    "download": "Pobierz aplikację",
+    "learnMore": "Dowiedz się więcej"
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "Wszystkie bilety w jednym miejscu",
+        "desc": "Przechowuj kody QR i kody kreskowe w bezpieczny sposób w jednej prostej aplikacji."
+      },
+      {
+        "title": "Dostęp oparty na lokalizacji",
+        "desc": "Twój bilet wyświetla się automatycznie, gdy dotrzesz do właściwego miejsca."
+      },
+      {
+        "title": "Szybki i łatwy dostęp",
+        "desc": "Koniec z szukaniem. Wystarczy otworzyć aplikację i natychmiast wyświetlić kod."
+      },
+      {
+        "title": "Gotowość do użytku na całym świecie",
+        "desc": "Używaj w dowolnym miejscu na świecie — na wydarzeniach, w podróży, przy użyciu kuponów i nie tylko."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Jak to działa",
+    "steps": [
+      {
+        "title": "Dodaj bilet",
+        "desc": "Zeskanuj lub zaimportuj swój kod QR / kod kreskowy."
+      },
+      {
+        "title": "Udaj się w wyznaczone miejsce",
+        "desc": "Przyjedź na miejsce lub do sklepu."
+      },
+      {
+        "title": "Pokaż i wejdź",
+        "desc": "Twój bilet pojawi się automatycznie. Po prostu pokaż go i wejdź."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 PassPang. Wszelkie prawa zastrzeżone."
+  },
+  "language": {
+    "label": "Language",
+    "select": "Wybierz język"
+  }
+}

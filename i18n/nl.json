@@ -1,0 +1,60 @@
+{
+  "app": {
+    "name": "PassPang",
+    "tagline": "Je slimme portemonnee voor QR-tickets, barcodes en kortingsbonnen."
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "Hoe het werkt",
+    "download": "Download"
+  },
+  "cta": {
+    "download": "App downloaden",
+    "learnMore": "Meer informatie"
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "Al je tickets op één plek",
+        "desc": "Sla QR-codes en barcodes veilig op in één eenvoudige app."
+      },
+      {
+        "title": "Locatiegebaseerde toegang",
+        "desc": "Je ticket verschijnt automatisch wanneer je op de juiste plaats aankomt."
+      },
+      {
+        "title": "Snel en eenvoudig toegang",
+        "desc": "Geen zoeken. Open gewoon de app en laat direct je code zien."
+      },
+      {
+        "title": "Wereldwijd bruikbaar",
+        "desc": "Gebruik overal ter wereld - voor evenementen, reizen, kortingsbonnen en meer."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Hoe het werkt",
+    "steps": [
+      {
+        "title": "Ticket toevoegen",
+        "desc": "Scan of importeer uw QR-code / barcode."
+      },
+      {
+        "title": "Ga naar de locatie",
+        "desc": "Kom aan op de locatie of in de winkel."
+      },
+      {
+        "title": "Tonen en binnengaan",
+        "desc": "Uw pas wordt automatisch weergegeven. Laat hem gewoon zien en ga naar binnen."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 PassPang. Alle rechten voorbehouden."
+  },
+  "language": {
+    "label": "Language",
+    "select": "Selecteer een taal"
+  }
+}

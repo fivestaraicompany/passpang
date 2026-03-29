@@ -1,0 +1,60 @@
+{
+  "app": {
+    "name": "PassPang",
+    "tagline": "Az Ön okos pénztárcája QR-kódok, vonkódok és kuponok tárolására."
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "Hogyan működik",
+    "download": "Download"
+  },
+  "cta": {
+    "download": "Töltse le az alkalmazást",
+    "learnMore": "Tudjon meg többet"
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "Minden jegye egy helyen",
+        "desc": "Tárolja biztonságosan a QR-kódokat és vonkódokat egy egyszerű alkalmazásban."
+      },
+      {
+        "title": "Helyalapú hozzáférés",
+        "desc": "A jegye automatikusan megjelenik, amikor a megfelelő helyre ér."
+      },
+      {
+        "title": "Gyors és egyszerű belépés",
+        "desc": "Nincs szükség keresésre. Csak nyissa meg az alkalmazást, és azonnal mutassa be a kódot."
+      },
+      {
+        "title": "Globálisan használható",
+        "desc": "Használható bárhol a világon – rendezvényeken, utazásokhoz, kuponokhoz és még sok máshoz."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "A működési elv",
+    "steps": [
+      {
+        "title": "Jegy hozzáadása",
+        "desc": "Olvassa be vagy importálja a QR-/vonkódját."
+      },
+      {
+        "title": "Menjen a helyszínre",
+        "desc": "Érkezzen meg a rendezvényhelyszínre vagy az üzletbe."
+      },
+      {
+        "title": "Mutassa be és lépjen be",
+        "desc": "A belépője automatikusan megjelenik. Csak mutassa be, és mehet."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 PassPang. Minden jog fenntartva."
+  },
+  "language": {
+    "label": "Language",
+    "select": "Nyelv kiválasztása"
+  }
+}

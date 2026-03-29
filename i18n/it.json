@@ -1,0 +1,60 @@
+{
+  "app": {
+    "name": "PassPang",
+    "tagline": "Il tuo portafoglio digitale per biglietti QR, codici a barre e coupon."
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "Come funziona",
+    "download": "Download"
+  },
+  "cta": {
+    "download": "Scarica l'app",
+    "learnMore": "Scopri di più"
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "Tutti i tuoi biglietti in un unico posto",
+        "desc": "Archivia in modo sicuro i codici QR e i codici a barre in un'unica app."
+      },
+      {
+        "title": "Accesso basato sulla posizione",
+        "desc": "Il tuo biglietto viene visualizzato automaticamente quando arrivi nel posto giusto."
+      },
+      {
+        "title": "Ingresso rapido e semplice",
+        "desc": "Niente più ricerche. Apri semplicemente l'app e mostra il tuo codice all'istante."
+      },
+      {
+        "title": "Pronto per l'uso in tutto il mondo",
+        "desc": "Utilizzabile ovunque nel mondo: eventi, viaggi, coupon e altro ancora."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Come funziona",
+    "steps": [
+      {
+        "title": "Aggiungi biglietto",
+        "desc": "Scansiona o importa il tuo QR code/codice a barre."
+      },
+      {
+        "title": "Vai alla sede",
+        "desc": "Arriva alla sede o al negozio."
+      },
+      {
+        "title": "Mostra ed entra",
+        "desc": "Il tuo pass apparirà automaticamente. Mostralo e procedi."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 PassPang. Tutti i diritti riservati."
+  },
+  "language": {
+    "label": "Language",
+    "select": "Seleziona la lingua"
+  }
+}

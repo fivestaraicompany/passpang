@@ -1,0 +1,60 @@
+{
+  "app": {
+    "name": "PassPang",
+    "tagline": "Vaše chytrá peněženka pro QR kódy, čárové kódy a kupóny."
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "Jak to funguje",
+    "download": "Download"
+  },
+  "cta": {
+    "download": "Stáhnout aplikaci",
+    "learnMore": "Zjistit více"
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "Všechny vaše vstupenky na jednom místě",
+        "desc": "Bezpečně ukládejte QR kódy a čárové kódy v jedné jednoduché aplikaci."
+      },
+      {
+        "title": "Přístup na základě polohy",
+        "desc": "Vaše vstupenka se automaticky zobrazí, když dorazíte na správné místo."
+      },
+      {
+        "title": "Rychlý a snadný vstup",
+        "desc": "Už žádné hledání. Stačí otevřít aplikaci a okamžitě zobrazit svůj kód."
+      },
+      {
+        "title": "Globálně připraveno",
+        "desc": "Používejte kdekoli na světě – pro akce, cestování, kupóny a další."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Jak to funguje",
+    "steps": [
+      {
+        "title": "Přidat vstupenku",
+        "desc": "Naskenujte nebo importujte svůj QR kód / čárový kód."
+      },
+      {
+        "title": "Přejděte na místo",
+        "desc": "Přijďte na místo konání nebo do obchodu."
+      },
+      {
+        "title": "Ukažte a vstupte",
+        "desc": "Vaše vstupenka se zobrazí automaticky. Jednoduše ji ukažte a vstupte."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 PassPang. Všechna práva vyhrazena."
+  },
+  "language": {
+    "label": "Language",
+    "select": "Vyberte jazyk"
+  }
+}

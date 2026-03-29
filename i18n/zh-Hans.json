@@ -1,0 +1,60 @@
+{
+  "app": {
+    "name": "PassPang",
+    "tagline": "您的智能钱包，用于存储二维码票、条形码和优惠券。"
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "使用方法",
+    "download": "Download"
+  },
+  "cta": {
+    "download": "下载应用",
+    "learnMore": "了解更多"
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "所有票据集中管理",
+        "desc": "在一个简单的应用程序中安全地存储二维码和条形码。"
+      },
+      {
+        "title": "基于位置的访问",
+        "desc": "当您到达正确的位置时，您的票据将自动显示。"
+      },
+      {
+        "title": "快速便捷的入场",
+        "desc": "无需搜索。只需打开应用程序并立即显示您的代码。"
+      },
+      {
+        "title": "全球适用",
+        "desc": "可在世界任何地方使用——活动、旅行、优惠券等。"
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "使用方法",
+    "steps": [
+      {
+        "title": "添加票证",
+        "desc": "扫描或导入您的二维码/条形码。"
+      },
+      {
+        "title": "前往地点",
+        "desc": "到达活动场地或商店。"
+      },
+      {
+        "title": "展示并进入",
+        "desc": "您的通行证将自动显示。只需展示并进入。"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 PassPang。保留所有权利。"
+  },
+  "language": {
+    "label": "Language",
+    "select": "选择语言"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "app": {
+    "name": "PassPang",
+    "tagline": "La teva cartera intel·ligent per a entrades QR, codis de barres i cupons."
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "Com funciona",
+    "download": "Download"
+  },
+  "cta": {
+    "download": "Descarrega l'aplicació",
+    "learnMore": "Més informació"
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "Totes les teves entrades en un sol lloc",
+        "desc": "Emmagatzema de forma segura els codis QR i els codis de barres en una aplicació senzilla."
+      },
+      {
+        "title": "Accés basat en la ubicació",
+        "desc": "La teva entrada apareix automàticament quan arribes al lloc correcte."
+      },
+      {
+        "title": "Accés ràpid i fàcil",
+        "desc": "No cal cercar. Només cal obrir l'aplicació i mostrar el teu codi instantàniament."
+      },
+      {
+        "title": "Preparat per al món",
+        "desc": "Utilitza-ho a qualsevol lloc del món: esdeveniments, viatges, cupons i molt més."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Com funciona",
+    "steps": [
+      {
+        "title": "Afegeix l'entrada",
+        "desc": "Escanja o importa el teu codi QR / codi de barres."
+      },
+      {
+        "title": "Vés a la ubicació",
+        "desc": "Arriba a l'espai o la botiga."
+      },
+      {
+        "title": "Mostra i entra",
+        "desc": "La teva entrada apareix automàticament. Només has d'ensenyar-la i entrar."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 PassPang. Tots els drets reservats."
+  },
+  "language": {
+    "label": "Language",
+    "select": "Selecciona l'idioma"
+  }
+}

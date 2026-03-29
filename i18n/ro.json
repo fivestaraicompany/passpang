@@ -1,0 +1,60 @@
+{
+  "app": {
+    "name": "PassPang",
+    "tagline": "Portofelul tău inteligent pentru bilete QR, coduri de bare și cupoane."
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "Cum funcționează",
+    "download": "Download"
+  },
+  "cta": {
+    "download": "Descarcă aplicația",
+    "learnMore": "Află mai multe"
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "Toate biletele tale într-un singur loc",
+        "desc": "Stochează în siguranță codurile QR și codurile de bare într-o singură aplicație simplă."
+      },
+      {
+        "title": "Acces bazat pe locație",
+        "desc": "Biletul tău apare automat când ajungi în locul potrivit."
+      },
+      {
+        "title": "Acces rapid și ușor",
+        "desc": "Nu mai este nevoie să cauți. Deschide pur și simplu aplicația și arată-ți codul instantaneu."
+      },
+      {
+        "title": "Gata de utilizare la nivel global",
+        "desc": "Utilizează oriunde în lume – evenimente, călătorii, cupoane și multe altele."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Cum funcționează",
+    "steps": [
+      {
+        "title": "Adaugă bilet",
+        "desc": "Scanează sau importă codul QR / codul de bare."
+      },
+      {
+        "title": "Mergi la locație",
+        "desc": "Ajungi la locație sau la magazin."
+      },
+      {
+        "title": "Arată și intră",
+        "desc": "Permisul tău va apărea automat. Doar arată-l și intră."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 PassPang. Toate drepturile rezervate."
+  },
+  "language": {
+    "label": "Language",
+    "select": "Selectează limba"
+  }
+}

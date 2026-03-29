@@ -1,0 +1,60 @@
+{
+  "app": {
+    "name": "PassPang",
+    "tagline": "Votre portefeuille intelligent pour les billets QR, les codes-barres et les coupons."
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "Comment ça marche",
+    "download": "Download"
+  },
+  "cta": {
+    "download": "Télécharger l’application",
+    "learnMore": "En savoir plus"
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "Tous vos billets au même endroit",
+        "desc": "Conservez vos codes QR et codes-barres en toute sécurité dans une seule application simple."
+      },
+      {
+        "title": "Accès basé sur la localisation",
+        "desc": "Votre billet s’affiche automatiquement lorsque vous arrivez au bon endroit."
+      },
+      {
+        "title": "Accès rapide et facile",
+        "desc": "Plus besoin de chercher. Ouvrez simplement l’application et affichez votre code instantanément."
+      },
+      {
+        "title": "Prêt pour le monde entier",
+        "desc": "Utilisable partout dans le monde : événements, voyages, coupons, et plus encore."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Comment ça marche",
+    "steps": [
+      {
+        "title": "Ajouter un billet",
+        "desc": "Analysez ou importez votre QR code / code-barres."
+      },
+      {
+        "title": "Se rendre sur place",
+        "desc": "Arrivez au lieu de l’événement ou au magasin."
+      },
+      {
+        "title": "Présenter et entrer",
+        "desc": "Votre laissez-passer s’affiche automatiquement. Il vous suffit de le présenter et d’entrer."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 PassPang. Tous droits réservés."
+  },
+  "language": {
+    "label": "Language",
+    "select": "Sélectionner la langue"
+  }
+}

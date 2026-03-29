@@ -1,0 +1,60 @@
+{
+  "app": {
+    "name": "PassPang",
+    "tagline": "Dompet pintar anda untuk tiket QR, kod bar dan kupon."
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "Cara Ia Berfungsi",
+    "download": "Download"
+  },
+  "cta": {
+    "download": "Muat Turun Apl",
+    "learnMore": "Ketahui Lebih Lanjut"
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "Semua Tiket Anda di Satu Tempat",
+        "desc": "Simpan kod QR dan kod bar dengan selamat dalam satu apl mudah."
+      },
+      {
+        "title": "Akses Berasaskan Lokasi",
+        "desc": "Tiket anda muncul secara automatik apabila anda tiba di tempat yang betul."
+      },
+      {
+        "title": "Pantas & Mudah",
+        "desc": "Tiada lagi mencari. Buka sahaja apl dan tunjukkan kod anda serta-merta."
+      },
+      {
+        "title": "Sedia Digunakan di Seluruh Dunia",
+        "desc": "Gunakan di mana-mana sahaja di dunia — acara, perjalanan, kupon dan banyak lagi."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Cara Ia Berfungsi",
+    "steps": [
+      {
+        "title": "Tambah Tiket",
+        "desc": "Imbas atau import QR / kod bar anda."
+      },
+      {
+        "title": "Pergi ke Lokasi",
+        "desc": "Tiba di lokasi atau kedai."
+      },
+      {
+        "title": "Tunjuk & Masuk",
+        "desc": "Pas anda akan muncul secara automatik. Hanya tunjuk dan terus."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 PassPang. Semua hak terpelihara."
+  },
+  "language": {
+    "label": "Language",
+    "select": "Pilih Bahasa"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "app": {
+    "name": "PassPang",
+    "tagline": "Tu billetera inteligente para boletos QR, códigos de barras y cupones."
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "Cómo funciona",
+    "download": "Download"
+  },
+  "cta": {
+    "download": "Descarga la aplicación",
+    "learnMore": "Más información"
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "Todos tus boletos en un solo lugar",
+        "desc": "Almacena códigos QR y códigos de barras de forma segura en una aplicación sencilla."
+      },
+      {
+        "title": "Acceso basado en la ubicación",
+        "desc": "Tu boleto aparece automáticamente cuando llegas al lugar correcto."
+      },
+      {
+        "title": "Entrada rápida y fácil",
+        "desc": "No más búsquedas. Simplemente abre la aplicación y muestra tu código al instante."
+      },
+      {
+        "title": "Listo para usar en todo el mundo",
+        "desc": "Úsalo en cualquier parte del mundo: eventos, viajes, cupones y más."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Cómo funciona",
+    "steps": [
+      {
+        "title": "Agregar boleto",
+        "desc": "Escanee o importe su código QR o código de barras."
+      },
+      {
+        "title": "Diríjase al lugar",
+        "desc": "Llegue al recinto o la tienda."
+      },
+      {
+        "title": "Mostrar e ingresar",
+        "desc": "Su pase aparecerá automáticamente. Simplemente muéstrelo y entre."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 PassPang. Todos los derechos reservados."
+  },
+  "language": {
+    "label": "Language",
+    "select": "Seleccionar idioma"
+  }
+}

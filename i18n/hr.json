@@ -1,0 +1,60 @@
+{
+  "app": {
+    "name": "PassPang",
+    "tagline": "Vaš pametni novčanik za QR kodove, barkodove i kupone."
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "Kako funkcionira",
+    "download": "Download"
+  },
+  "cta": {
+    "download": "Preuzmite aplikaciju",
+    "learnMore": "Saznajte više"
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "Sve vaše ulaznice na jednom mjestu",
+        "desc": "Sigurno pohranite QR kodove i barkodove u jednoj jednostavnoj aplikaciji."
+      },
+      {
+        "title": "Pristup na temelju lokacije",
+        "desc": "Vaša se ulaznica automatski prikazuje kada stignete na pravo mjesto."
+      },
+      {
+        "title": "Brz i jednostavan ulaz",
+        "desc": "Nema potrebe za pretraživanjem. Samo otvorite aplikaciju i odmah prikažite svoj kod."
+      },
+      {
+        "title": "Spremni za korištenje u cijelom svijetu",
+        "desc": "Koristite bilo gdje u svijetu - za događaje, putovanja, kupone i još mnogo toga."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Kako to funkcionira",
+    "steps": [
+      {
+        "title": "Dodajte ulaznicu",
+        "desc": "Skenirajte ili uvezite svoj QR-kod / barkod."
+      },
+      {
+        "title": "Otiđite na lokaciju",
+        "desc": "Stignite do mjesta održavanja ili trgovine."
+      },
+      {
+        "title": "Pokažite i uđite",
+        "desc": "Vaša propusnica se automatski prikazuje. Samo je pokažite i uđite."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 PassPang. Sva prava pridržana."
+  },
+  "language": {
+    "label": "Language",
+    "select": "Odaberite jezik"
+  }
+}

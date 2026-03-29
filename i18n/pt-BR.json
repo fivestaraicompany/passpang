@@ -1,0 +1,60 @@
+{
+  "app": {
+    "name": "PassPang",
+    "tagline": "Sua carteira inteligente para ingressos QR, códigos de barras e cupons."
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "Como funciona",
+    "download": "Download"
+  },
+  "cta": {
+    "download": "Baixar aplicativo",
+    "learnMore": "Saiba mais"
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "Todos os seus ingressos em um só lugar",
+        "desc": "Armazene códigos QR e códigos de barras com segurança em um aplicativo simples."
+      },
+      {
+        "title": "Acesso baseado em localização",
+        "desc": "Seu ingresso aparece automaticamente quando você chega ao local correto."
+      },
+      {
+        "title": "Entrada rápida e fácil",
+        "desc": "Sem precisar procurar. Basta abrir o aplicativo e mostrar seu código instantaneamente."
+      },
+      {
+        "title": "Pronto para uso global",
+        "desc": "Use em qualquer lugar do mundo — eventos, viagens, cupons e muito mais."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Como funciona",
+    "steps": [
+      {
+        "title": "Adicionar ingresso",
+        "desc": "Escaneie ou importe seu código QR / código de barras."
+      },
+      {
+        "title": "Vá para o local",
+        "desc": "Chegue ao local ou loja."
+      },
+      {
+        "title": "Mostre e entre",
+        "desc": "Seu ingresso aparecerá automaticamente. Basta mostrar e entrar."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 PassPang. Todos os direitos reservados."
+  },
+  "language": {
+    "label": "Language",
+    "select": "Selecione o idioma"
+  }
+}

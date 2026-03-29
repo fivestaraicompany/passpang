@@ -1,0 +1,60 @@
+{
+  "app": {
+    "name": "PassPang",
+    "tagline": "Ví thông minh của bạn để lưu trữ vé QR, mã vạch và phiếu giảm giá."
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "Cách thức hoạt động",
+    "download": "Download"
+  },
+  "cta": {
+    "download": "Tải xuống ứng dụng",
+    "learnMore": "Tìm hiểu thêm"
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "Tất cả vé của bạn ở một nơi",
+        "desc": "Lưu trữ mã QR và mã vạch một cách an toàn trong một ứng dụng đơn giản."
+      },
+      {
+        "title": "Truy cập dựa trên vị trí",
+        "desc": "Vé của bạn sẽ tự động hiển thị khi bạn đến đúng địa điểm."
+      },
+      {
+        "title": "Truy cập nhanh chóng và dễ dàng",
+        "desc": "Không cần tìm kiếm. Chỉ cần mở ứng dụng và hiển thị mã của bạn ngay lập tức."
+      },
+      {
+        "title": "Sẵn sàng trên toàn cầu",
+        "desc": "Sử dụng ở bất kỳ đâu trên thế giới — sự kiện, du lịch, phiếu giảm giá và hơn thế nữa."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Cách thức hoạt động",
+    "steps": [
+      {
+        "title": "Thêm vé",
+        "desc": "Quét hoặc nhập mã QR / mã vạch của bạn."
+      },
+      {
+        "title": "Đến địa điểm",
+        "desc": "Đến địa điểm hoặc cửa hàng."
+      },
+      {
+        "title": "Hiển thị & Vào",
+        "desc": "Vé của bạn sẽ tự động hiển thị. Chỉ cần xuất trình và đi vào."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 PassPang. Mọi quyền được bảo lưu."
+  },
+  "language": {
+    "label": "Language",
+    "select": "Chọn ngôn ngữ"
+  }
+}

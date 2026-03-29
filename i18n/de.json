@@ -1,0 +1,60 @@
+{
+  "app": {
+    "name": "PassPang",
+    "tagline": "Ihre intelligente Wallet für QR-Tickets, Barcodes und Coupons."
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "Funktionsweise",
+    "download": "Download"
+  },
+  "cta": {
+    "download": "App herunterladen",
+    "learnMore": "Mehr erfahren"
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "Alle Ihre Tickets an einem Ort",
+        "desc": "Speichern Sie QR-Codes und Barcodes sicher in einer einfachen App."
+      },
+      {
+        "title": "Standortbasierter Zugriff",
+        "desc": "Ihr Ticket wird automatisch angezeigt, wenn Sie am richtigen Ort ankommen."
+      },
+      {
+        "title": "Schneller und einfacher Einlass",
+        "desc": "Keine Suche erforderlich. Öffnen Sie einfach die App und zeigen Sie Ihren Code sofort."
+      },
+      {
+        "title": "Weltweit einsetzbar",
+        "desc": "Überall auf der Welt einsetzbar – für Veranstaltungen, Reisen, Coupons und mehr."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Wie es funktioniert",
+    "steps": [
+      {
+        "title": "Ticket hinzufügen",
+        "desc": "Scannen oder importieren Sie Ihren QR- / Barcode."
+      },
+      {
+        "title": "Zum Veranstaltungsort gehen",
+        "desc": "Erreichen Sie den Veranstaltungsort oder das Geschäft."
+      },
+      {
+        "title": "Anzeigen und eintreten",
+        "desc": "Ihr Ticket wird automatisch angezeigt. Zeigen Sie es einfach und betreten Sie den Veranstaltungsort."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 PassPang. Alle Rechte vorbehalten."
+  },
+  "language": {
+    "label": "Language",
+    "select": "Sprache auswählen"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "app": {
+    "name": "PassPang",
+    "tagline": "Din smarte lommebok for QR-billetter, strekkoder og kuponger."
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "Hvordan det fungerer",
+    "download": "Download"
+  },
+  "cta": {
+    "download": "Last ned appen",
+    "learnMore": "Lær mer"
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "Alle billettene dine på ett sted",
+        "desc": "Lagre QR-koder og strekkoder sikkert i én enkel app."
+      },
+      {
+        "title": "Lokasjonsbasert tilgang",
+        "desc": "Billetten din vises automatisk når du kommer til riktig sted."
+      },
+      {
+        "title": "Rask og enkel adgang",
+        "desc": "Du trenger ikke å lete. Bare åpne appen og vis koden din umiddelbart."
+      },
+      {
+        "title": "Klar for bruk overalt",
+        "desc": "Bruk den hvor som helst i verden – arrangementer, reiser, kuponger og mer."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Slik fungerer det",
+    "steps": [
+      {
+        "title": "Legg til billett",
+        "desc": "Skann eller importer QR-koden/strekkoden."
+      },
+      {
+        "title": "Gå til stedet",
+        "desc": "Ankom til arrangementet eller butikken."
+      },
+      {
+        "title": "Vis og gå inn",
+        "desc": "Passet vises automatisk. Bare vis det og gå inn."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 PassPang. Alle rettigheter forbeholdt."
+  },
+  "language": {
+    "label": "Language",
+    "select": "Velg språk"
+  }
+}

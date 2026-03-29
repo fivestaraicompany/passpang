@@ -1,0 +1,60 @@
+{
+  "app": {
+    "name": "PassPang",
+    "tagline": "Älykäs lompakkosi QR-koodeille, viivakoodeille ja kupongeille."
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "Miten se toimii",
+    "download": "Download"
+  },
+  "cta": {
+    "download": "Lataa sovellus",
+    "learnMore": "Lue lisää"
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "Kaikki lippusi yhdessä paikassa",
+        "desc": "Tallenna QR-koodit ja viivakoodit turvallisesti yhteen yksinkertaiseen sovellukseen."
+      },
+      {
+        "title": "Sijaintipohjainen käyttö",
+        "desc": "Lippusi näkyy automaattisesti, kun saavut oikeaan paikkaan."
+      },
+      {
+        "title": "Nopea ja helppo pääsy",
+        "desc": "Ei tarvitse etsiä. Avaa vain sovellus ja näytä koodisi heti."
+      },
+      {
+        "title": "Valmis käytettäväksi kaikkialla",
+        "desc": "Käytä missä tahansa maailmassa – tapahtumat, matkustaminen, kupongit ja paljon muuta."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Miten se toimii",
+    "steps": [
+      {
+        "title": "Lisää lippu",
+        "desc": "Skannaa tai tuo QR- tai viivakoodi."
+      },
+      {
+        "title": "Siirry paikalle",
+        "desc": "Saavu tapahtumapaikalle tai myymälään."
+      },
+      {
+        "title": "Näytä ja siirry sisään",
+        "desc": "Lippusi näkyy automaattisesti. Näytä se ja mene sisään."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 PassPang. Kaikki oikeudet pidätetään."
+  },
+  "language": {
+    "label": "Language",
+    "select": "Valitse kieli"
+  }
+}

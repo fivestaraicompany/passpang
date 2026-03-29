@@ -1,0 +1,60 @@
+{
+  "app": {
+    "name": "PassPang",
+    "tagline": "Din smarta plånbok för QR-biljetter, streckkoder och kuponger."
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "Så här fungerar det",
+    "download": "Download"
+  },
+  "cta": {
+    "download": "Ladda ner appen",
+    "learnMore": "Läs mer"
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "Alla dina biljetter på ett ställe",
+        "desc": "Lagra QR-koder och streckkoder säkert i en enkel app."
+      },
+      {
+        "title": "Platsbaserad åtkomst",
+        "desc": "Din biljett visas automatiskt när du kommer till rätt plats."
+      },
+      {
+        "title": "Snabb och enkel incheckning",
+        "desc": "Ingen sökning. Öppna bara appen och visa din kod direkt."
+      },
+      {
+        "title": "Globalt tillgänglig",
+        "desc": "Använd den var som helst i världen – för evenemang, resor, kuponger och mer."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Så här fungerar det",
+    "steps": [
+      {
+        "title": "Lägg till biljett",
+        "desc": "Skanna eller importera din QR-kod/streckkod."
+      },
+      {
+        "title": "Gå till platsen",
+        "desc": "Anländ till evenemangsplatsen eller butiken."
+      },
+      {
+        "title": "Visa och gå in",
+        "desc": "Ditt pass visas automatiskt. Visa det bara och gå in."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 PassPang. Alla rättigheter förbehållna."
+  },
+  "language": {
+    "label": "Language",
+    "select": "Välj språk"
+  }
+}
