@@ -1,0 +1,66 @@
+{
+  "app": {
+    "name": "PassPang",
+    "tagline": "Your smart wallet for QR tickets, barcodes, and coupons."
+  },
+
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "download": "Download"
+  },
+
+  "cta": {
+    "download": "Download App",
+    "learnMore": "Learn More"
+  },
+
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "All Your Tickets in One Place",
+        "desc": "Store QR codes and barcodes securely in one simple app."
+      },
+      {
+        "title": "Location-Based Access",
+        "desc": "Your ticket appears automatically when you arrive at the right place."
+      },
+      {
+        "title": "Fast & Easy Entry",
+        "desc": "No searching. Just open the app and show your code instantly."
+      },
+      {
+        "title": "Global Ready",
+        "desc": "Use anywhere in the world — events, travel, coupons, and more."
+      }
+    ]
+  },
+
+  "howItWorks": {
+    "title": "How It Works",
+    "steps": [
+      {
+        "title": "Add Ticket",
+        "desc": "Scan or import your QR / barcode."
+      },
+      {
+        "title": "Go to Location",
+        "desc": "Arrive at the venue or store."
+      },
+      {
+        "title": "Show & Enter",
+        "desc": "Your pass appears automatically. Just show and go."
+      }
+    ]
+  },
+
+  "footer": {
+    "copyright": "© 2026 PassPang. All rights reserved."
+  },
+
+  "language": {
+    "label": "Language",
+    "select": "Select Language"
+  }
+}

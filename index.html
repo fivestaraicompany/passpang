@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PassPang</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: #0f172a;
+            color: #ffffff;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: auto;
+            padding: 40px 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 60px 20px;
+        }
+
+        h1 {
+            font-size: 48px;
+        }
+
+        p {
+            color: #94a3b8;
+        }
+
+        .lang-select {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+        }
+
+        select {
+            padding: 8px;
+            border-radius: 6px;
+        }
+
+        .cta {
+            margin-top: 30px;
+        }
+
+        .btn {
+            padding: 14px 28px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+            margin: 10px;
+            display: inline-block;
+        }
+
+        .btn-primary {
+            background: #3b82f6;
+            color: white;
+        }
+
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+            margin-top: 80px;
+        }
+
+        .feature {
+            background: #1e293b;
+            padding: 30px;
+            border-radius: 16px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px;
+            color: #64748b;
+            margin-top: 80px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="lang-select">
+    <select id="languageSwitcher">
+        <option value="en">English</option>
+        <option value="uk">Українська</option>
+        <option value="ar">العربية</option>
+        <option value="ca">Català</option>
+        <option value="zh-Hans">简体中文</option>
+        <option value="zh-Hant">繁體中文</option>
+        <option value="hr">Hrvatski</option>
+        <option value="cs">Čeština</option>
+        <option value="da">Dansk</option>
+        <option value="nl">Nederlands</option>
+        <option value="fi">Suomi</option>
+        <option value="fr">Français</option>
+        <option value="fr-CA">Français (CA)</option>
+        <option value="de">Deutsch</option>
+        <option value="el">Ελληνικά</option>
+        <option value="he">עברית</option>
+        <option value="hi">हिन्दी</option>
+        <option value="hu">Magyar</option>
+        <option value="id">Bahasa Indonesia</option>
+        <option value="it">Italiano</option>
+        <option value="ja">日本語</option>
+        <option value="ko">한국어</option>
+        <option value="ms">Bahasa Melayu</option>
+        <option value="nb">Norsk</option>
+        <option value="pl">Polski</option>
+        <option value="pt-BR">Português (BR)</option>
+        <option value="pt-PT">Português (PT)</option>
+        <option value="ro">Română</option>
+        <option value="ru">Русский</option>
+        <option value="sk">Slovenčina</option>
+        <option value="es">Español</option>
+        <option value="es-MX">Español (MX)</option>
+        <option value="sv">Svenska</option>
+        <option value="th">ไทย</option>
+        <option value="tr">Türkçe</option>
+        <option value="vi">Tiếng Việt</option>
+    </select>
+</div>
+
+<div class="container">
+
+    <header>
+        <h1 data-i18n="app_title">PassPang</h1>
+        <p data-i18n="app_subtitle"></p>
+
+        <div class="cta">
+            <a href="#" class="btn btn-primary" data-i18n="download_btn"></a>
+        </div>
+    </header>
+
+    <section class="features">
+        <div class="feature">
+            <h3 data-i18n="feature1_title"></h3>
+            <p data-i18n="feature1_desc"></p>
+        </div>
+
+        <div class="feature">
+            <h3 data-i18n="feature2_title"></h3>
+            <p data-i18n="feature2_desc"></p>
+        </div>
+
+        <div class="feature">
+            <h3 data-i18n="feature3_title"></h3>
+            <p data-i18n="feature3_desc"></p>
+        </div>
+
+        <div class="feature">
+            <h3 data-i18n="feature4_title"></h3>
+            <p data-i18n="feature4_desc"></p>
+        </div>
+    </section>
+
+    <section class="features">
+        <div class="feature">
+            <h3 data-i18n="step1_title"></h3>
+            <p data-i18n="step1_desc"></p>
+        </div>
+
+        <div class="feature">
+            <h3 data-i18n="step2_title"></h3>
+            <p data-i18n="step2_desc"></p>
+        </div>
+
+        <div class="feature">
+            <h3 data-i18n="step3_title"></h3>
+            <p data-i18n="step3_desc"></p>
+        </div>
+    </section>
+
+    <footer>
+        <p data-i18n="footer_text"></p>
+    </footer>
+
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>
