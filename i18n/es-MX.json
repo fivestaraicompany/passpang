@@ -17,7 +17,7 @@
     "items": [
       {
         "title": "Todos tus boletos en un solo lugar",
-        "desc": "Almacena códigos QR y códigos de barras de forma segura en una aplicación sencilla."
+        "desc": "Guarda códigos QR y códigos de barras de forma segura en una aplicación sencilla."
       },
       {
         "title": "Acceso basado en la ubicación",
@@ -38,20 +38,20 @@
     "steps": [
       {
         "title": "Agregar boleto",
-        "desc": "Escanee o importe su código QR o código de barras."
+        "desc": "Escanear o importar el código QR / código de barras."
       },
       {
-        "title": "Diríjase al lugar",
-        "desc": "Llegue al recinto o la tienda."
+        "title": "Ir al lugar",
+        "desc": "Llegar al lugar o tienda."
       },
       {
-        "title": "Mostrar e ingresar",
-        "desc": "Su pase aparecerá automáticamente. Simplemente muéstrelo y entre."
+        "title": "Mostrar y entrar",
+        "desc": "Tu pase aparece automáticamente. Solo muéstralo y entra."
       }
     ]
   },
   "footer": {
-    "copyright": "© 2026 PassPang. Todos los derechos reservados."
+    "copyright": "© 2026 FiveStar AI. Todos los derechos reservados. Correo electrónico: anton@fivestaraicorp.com"
   },
   "language": {
     "label": "Language",

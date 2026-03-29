@@ -5,12 +5,12 @@
   },
   "nav": {
     "features": "Features",
-    "howItWorks": "Hvordan det fungerer",
+    "howItWorks": "Slik fungerer det",
     "download": "Download"
   },
   "cta": {
     "download": "Last ned appen",
-    "learnMore": "Lær mer"
+    "learnMore": "Les mer"
   },
   "features": {
     "title": "Features",
@@ -20,15 +20,15 @@
         "desc": "Lagre QR-koder og strekkoder sikkert i én enkel app."
       },
       {
-        "title": "Lokasjonsbasert tilgang",
-        "desc": "Billetten din vises automatisk når du kommer til riktig sted."
+        "title": "Plassbasert tilgang",
+        "desc": "Billetten din vises automatisk når du ankommer riktig sted."
       },
       {
         "title": "Rask og enkel adgang",
         "desc": "Du trenger ikke å lete. Bare åpne appen og vis koden din umiddelbart."
       },
       {
-        "title": "Klar for bruk overalt",
+        "title": "Klar for bruk over hele verden",
         "desc": "Bruk den hvor som helst i verden – arrangementer, reiser, kuponger og mer."
       }
     ]
@@ -42,16 +42,16 @@
       },
       {
         "title": "Gå til stedet",
-        "desc": "Ankom til arrangementet eller butikken."
+        "desc": "Kom til arrangementet eller butikken."
       },
       {
         "title": "Vis og gå inn",
-        "desc": "Passet vises automatisk. Bare vis det og gå inn."
+        "desc": "Passet ditt vises automatisk. Bare vis det og gå inn."
       }
     ]
   },
   "footer": {
-    "copyright": "© 2026 PassPang. Alle rettigheter forbeholdt."
+    "copyright": "© 2026 FiveStar AI. Alle rettigheter forbeholdes. E-post: anton@fivestaraicorp.com"
   },
   "language": {
     "label": "Language",

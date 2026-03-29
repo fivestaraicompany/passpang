@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "PassPang",
-    "tagline": "Ihre intelligente Wallet für QR-Tickets, Barcodes und Coupons."
+    "tagline": "Ihre intelligente Wallet für QR-Tickets, Barcodes und Gutscheine."
   },
   "nav": {
     "features": "Features",
@@ -25,16 +25,16 @@
       },
       {
         "title": "Schneller und einfacher Einlass",
-        "desc": "Keine Suche erforderlich. Öffnen Sie einfach die App und zeigen Sie Ihren Code sofort."
+        "desc": "Kein Suchen. Öffnen Sie einfach die App und zeigen Sie Ihren Code sofort."
       },
       {
         "title": "Weltweit einsetzbar",
-        "desc": "Überall auf der Welt einsetzbar – für Veranstaltungen, Reisen, Coupons und mehr."
+        "desc": "Überall auf der Welt einsetzbar – für Veranstaltungen, Reisen, Gutscheine und mehr."
       }
     ]
   },
   "howItWorks": {
-    "title": "Wie es funktioniert",
+    "title": "So funktioniert es",
     "steps": [
       {
         "title": "Ticket hinzufügen",
@@ -45,13 +45,13 @@
         "desc": "Erreichen Sie den Veranstaltungsort oder das Geschäft."
       },
       {
-        "title": "Anzeigen und eintreten",
-        "desc": "Ihr Ticket wird automatisch angezeigt. Zeigen Sie es einfach und betreten Sie den Veranstaltungsort."
+        "title": "Vorzeigen und Betreten",
+        "desc": "Ihr Ticket wird automatisch angezeigt. Zeigen Sie es einfach und gehen Sie hinein."
       }
     ]
   },
   "footer": {
-    "copyright": "© 2026 PassPang. Alle Rechte vorbehalten."
+    "copyright": "© 2026 FiveStar AI. Alle Rechte vorbehalten. E-Mail: anton@fivestaraicorp.com"
   },
   "language": {
     "label": "Language",

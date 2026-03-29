@@ -5,7 +5,7 @@
   },
   "nav": {
     "features": "Features",
-    "howItWorks": "Comment ça marche",
+    "howItWorks": "Fonctionnement",
     "download": "Download"
   },
   "cta": {
@@ -16,16 +16,16 @@
     "title": "Features",
     "items": [
       {
-        "title": "Tous vos billets en un seul endroit",
-        "desc": "Stockez en toute sécurité les codes QR et les codes-barres dans une seule application simple."
+        "title": "Tous vos billets au même endroit",
+        "desc": "Stockez les codes QR et les codes-barres en toute sécurité dans une seule application simple."
       },
       {
         "title": "Accès basé sur la localisation",
         "desc": "Votre billet apparaît automatiquement lorsque vous arrivez au bon endroit."
       },
       {
-        "title": "Accès rapide et facile",
-        "desc": "Pas besoin de chercher. Ouvrez simplement l'application et affichez votre code instantanément."
+        "title": "Entrée rapide et facile",
+        "desc": "Plus besoin de chercher. Ouvrez simplement l'application et affichez votre code instantanément."
       },
       {
         "title": "Prêt pour le monde entier",
@@ -34,7 +34,7 @@
     ]
   },
   "howItWorks": {
-    "title": "Comment ça marche",
+    "title": "Fonctionnement",
     "steps": [
       {
         "title": "Ajouter un billet",
@@ -46,15 +46,15 @@
       },
       {
         "title": "Présenter et entrer",
-        "desc": "Votre pass s'affiche automatiquement. Il vous suffit de le présenter et d'entrer."
+        "desc": "Votre billet s'affiche automatiquement. Il vous suffit de le présenter et d'entrer."
       }
     ]
   },
   "footer": {
-    "copyright": "© 2026 PassPang. Tous droits réservés."
+    "copyright": "© 2026 FiveStar AI. Tous droits réservés. Courriel : anton@fivestaraicorp.com"
   },
   "language": {
     "label": "Language",
-    "select": "Sélectionner la langue"
+    "select": "Sélectionner une langue"
   }
 }

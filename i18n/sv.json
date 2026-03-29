@@ -28,8 +28,8 @@
         "desc": "Ingen sökning. Öppna bara appen och visa din kod direkt."
       },
       {
-        "title": "Globalt tillgänglig",
-        "desc": "Använd den var som helst i världen – för evenemang, resor, kuponger och mer."
+        "title": "Användbar överallt",
+        "desc": "Använd den var som helst i världen – evenemang, resor, kuponger och mer."
       }
     ]
   },
@@ -42,7 +42,7 @@
       },
       {
         "title": "Gå till platsen",
-        "desc": "Anländ till evenemangsplatsen eller butiken."
+        "desc": "Anländ till arenan eller butiken."
       },
       {
         "title": "Visa och gå in",
@@ -51,7 +51,7 @@
     ]
   },
   "footer": {
-    "copyright": "© 2026 PassPang. Alla rättigheter förbehållna."
+    "copyright": "© 2026 FiveStar AI. Alla rättigheter förbehållna. E-post: anton@fivestaraicorp.com"
   },
   "language": {
     "label": "Language",

@@ -17,7 +17,7 @@
     "items": [
       {
         "title": "Totes les teves entrades en un sol lloc",
-        "desc": "Emmagatzema de forma segura els codis QR i els codis de barres en una aplicació senzilla."
+        "desc": "Emmagatzema els codis QR i els codis de barres de manera segura en una aplicació senzilla."
       },
       {
         "title": "Accés basat en la ubicació",
@@ -25,7 +25,7 @@
       },
       {
         "title": "Accés ràpid i fàcil",
-        "desc": "No cal cercar. Només cal obrir l'aplicació i mostrar el teu codi instantàniament."
+        "desc": "Sense buscar. Només has d'obrir l'aplicació i mostrar el teu codi instantàniament."
       },
       {
         "title": "Preparat per al món",
@@ -38,20 +38,20 @@
     "steps": [
       {
         "title": "Afegeix l'entrada",
-        "desc": "Escanja o importa el teu codi QR / codi de barres."
+        "desc": "Escaneja o importa el teu codi QR o codi de barres."
       },
       {
-        "title": "Vés a la ubicació",
-        "desc": "Arriba a l'espai o la botiga."
+        "title": "Vés al lloc",
+        "desc": "Arriba a l'esdeveniment o a la botiga."
       },
       {
         "title": "Mostra i entra",
-        "desc": "La teva entrada apareix automàticament. Només has d'ensenyar-la i entrar."
+        "desc": "El teu passi apareix automàticament. Només has de mostrar-lo i entrar."
       }
     ]
   },
   "footer": {
-    "copyright": "© 2026 PassPang. Tots els drets reservats."
+    "copyright": "© 2026 FiveStar AI. Tots els drets reservats. Correu electrònic: anton@fivestaraicorp.com"
   },
   "language": {
     "label": "Language",

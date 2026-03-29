@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "PassPang",
-    "tagline": "Ví thông minh của bạn để lưu trữ vé QR, mã vạch và phiếu giảm giá."
+    "tagline": "Ví thông minh của bạn cho vé QR, mã vạch và phiếu giảm giá."
   },
   "nav": {
     "features": "Features",
@@ -21,15 +21,15 @@
       },
       {
         "title": "Truy cập dựa trên vị trí",
-        "desc": "Vé của bạn sẽ tự động hiển thị khi bạn đến đúng địa điểm."
+        "desc": "Vé của bạn sẽ tự động xuất hiện khi bạn đến đúng địa điểm."
       },
       {
-        "title": "Truy cập nhanh chóng và dễ dàng",
+        "title": "Nhập nhanh chóng và dễ dàng",
         "desc": "Không cần tìm kiếm. Chỉ cần mở ứng dụng và hiển thị mã của bạn ngay lập tức."
       },
       {
         "title": "Sẵn sàng trên toàn cầu",
-        "desc": "Sử dụng ở bất kỳ đâu trên thế giới — sự kiện, du lịch, phiếu giảm giá và hơn thế nữa."
+        "desc": "Sử dụng ở bất kỳ đâu trên thế giới — sự kiện, du lịch, phiếu giảm giá, v.v."
       }
     ]
   },
@@ -45,13 +45,13 @@
         "desc": "Đến địa điểm hoặc cửa hàng."
       },
       {
-        "title": "Hiển thị & Vào",
-        "desc": "Vé của bạn sẽ tự động hiển thị. Chỉ cần xuất trình và đi vào."
+        "title": "Hiển thị và vào",
+        "desc": "Vé của bạn sẽ tự động hiển thị. Chỉ cần xuất trình và vào."
       }
     ]
   },
   "footer": {
-    "copyright": "© 2026 PassPang. Mọi quyền được bảo lưu."
+    "copyright": "© 2026 FiveStar AI. Mọi quyền được bảo lưu. Email: anton@fivestaraicorp.com"
   },
   "language": {
     "label": "Language",

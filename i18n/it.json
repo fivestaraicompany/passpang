@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "PassPang",
-    "tagline": "Il tuo portafoglio digitale per biglietti QR, codici a barre e coupon."
+    "tagline": "Il tuo portafoglio intelligente per biglietti QR, codici a barre e coupon."
   },
   "nav": {
     "features": "Features",
@@ -17,18 +17,18 @@
     "items": [
       {
         "title": "Tutti i tuoi biglietti in un unico posto",
-        "desc": "Archivia in modo sicuro i codici QR e i codici a barre in un'unica app."
+        "desc": "Archivia in modo sicuro codici QR e codici a barre in un'unica app semplice."
       },
       {
         "title": "Accesso basato sulla posizione",
-        "desc": "Il tuo biglietto viene visualizzato automaticamente quando arrivi nel posto giusto."
+        "desc": "Il tuo biglietto compare automaticamente quando arrivi nel posto giusto."
       },
       {
-        "title": "Ingresso rapido e semplice",
+        "title": "Accesso rapido e facile",
         "desc": "Niente più ricerche. Apri semplicemente l'app e mostra il tuo codice all'istante."
       },
       {
-        "title": "Pronto per l'uso in tutto il mondo",
+        "title": "Pronto per l'uso a livello globale",
         "desc": "Utilizzabile ovunque nel mondo: eventi, viaggi, coupon e altro ancora."
       }
     ]
@@ -38,10 +38,10 @@
     "steps": [
       {
         "title": "Aggiungi biglietto",
-        "desc": "Scansiona o importa il tuo QR code/codice a barre."
+        "desc": "Scansiona o importa il tuo codice QR / barcode."
       },
       {
-        "title": "Vai alla sede",
+        "title": "Vai alla posizione",
         "desc": "Arriva alla sede o al negozio."
       },
       {
@@ -51,7 +51,7 @@
     ]
   },
   "footer": {
-    "copyright": "© 2026 PassPang. Tutti i diritti riservati."
+    "copyright": "© 2026 FiveStar AI. Tutti i diritti riservati. e-mail: anton@fivestaraicorp.com"
   },
   "language": {
     "label": "Language",

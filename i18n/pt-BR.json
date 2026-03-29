@@ -9,7 +9,7 @@
     "download": "Download"
   },
   "cta": {
-    "download": "Baixar aplicativo",
+    "download": "Baixe o aplicativo",
     "learnMore": "Saiba mais"
   },
   "features": {
@@ -17,11 +17,11 @@
     "items": [
       {
         "title": "Todos os seus ingressos em um só lugar",
-        "desc": "Armazene códigos QR e códigos de barras com segurança em um aplicativo simples."
+        "desc": "Armazene códigos QR e códigos de barras com segurança em um único aplicativo simples."
       },
       {
         "title": "Acesso baseado em localização",
-        "desc": "Seu ingresso aparece automaticamente quando você chega ao local correto."
+        "desc": "Seu ingresso aparece automaticamente quando você chega ao local certo."
       },
       {
         "title": "Entrada rápida e fácil",
@@ -38,7 +38,7 @@
     "steps": [
       {
         "title": "Adicionar ingresso",
-        "desc": "Escaneie ou importe seu código QR / código de barras."
+        "desc": "Digitalize ou importe seu código QR/código de barras."
       },
       {
         "title": "Vá para o local",
@@ -46,12 +46,12 @@
       },
       {
         "title": "Mostre e entre",
-        "desc": "Seu ingresso aparecerá automaticamente. Basta mostrar e entrar."
+        "desc": "Seu ingresso aparecerá automaticamente. Apenas mostre e entre."
       }
     ]
   },
   "footer": {
-    "copyright": "© 2026 PassPang. Todos os direitos reservados."
+    "copyright": "© 2026 FiveStar AI. Todos os direitos reservados. E-mail: anton@fivestaraicorp.com"
   },
   "language": {
     "label": "Language",

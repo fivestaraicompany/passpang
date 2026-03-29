@@ -17,19 +17,19 @@
     "items": [
       {
         "title": "Semua Tiket Anda di Satu Tempat",
-        "desc": "Simpan kod QR dan kod bar dengan selamat dalam satu apl mudah."
+        "desc": "Simpan kod QR dan kod bar dengan selamat dalam satu apl yang mudah."
       },
       {
         "title": "Akses Berasaskan Lokasi",
         "desc": "Tiket anda muncul secara automatik apabila anda tiba di tempat yang betul."
       },
       {
-        "title": "Pantas & Mudah",
-        "desc": "Tiada lagi mencari. Buka sahaja apl dan tunjukkan kod anda serta-merta."
+        "title": "Pemasukan yang Pantas & Mudah",
+        "desc": "Tidak perlu mencari. Buka sahaja apl dan tunjukkan kod anda serta-merta."
       },
       {
-        "title": "Sedia Digunakan di Seluruh Dunia",
-        "desc": "Gunakan di mana-mana sahaja di dunia — acara, perjalanan, kupon dan banyak lagi."
+        "title": "Sedia Digunakan Di Seluruh Dunia",
+        "desc": "Gunakan di mana-mana sahaja di dunia—acara, perjalanan, kupon dan banyak lagi."
       }
     ]
   },
@@ -37,21 +37,21 @@
     "title": "Cara Ia Berfungsi",
     "steps": [
       {
-        "title": "Tambah Tiket",
-        "desc": "Imbas atau import QR / kod bar anda."
+        "title": "Tambahkan Tiket",
+        "desc": "Imbas atau import QR/kod bar anda."
       },
       {
         "title": "Pergi ke Lokasi",
-        "desc": "Tiba di lokasi atau kedai."
+        "desc": "Tiba di tempat atau kedai."
       },
       {
-        "title": "Tunjuk & Masuk",
-        "desc": "Pas anda akan muncul secara automatik. Hanya tunjuk dan terus."
+        "title": "Tunjukkan & Masuk",
+        "desc": "Pas anda akan muncul secara automatik. Hanya tunjukkan dan pergi."
       }
     ]
   },
   "footer": {
-    "copyright": "© 2026 PassPang. Semua hak terpelihara."
+    "copyright": "© 2026 FiveStar AI. Semua hak dipelihara. e-mel: anton@fivestaraicorp.com"
   },
   "language": {
     "label": "Language",

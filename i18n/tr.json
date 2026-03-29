@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "PassPang",
-    "tagline": "QR biletleriniz, barkodlarınız ve kuponlarınız için akıllı cüzdanınız."
+    "tagline": "QR kodlu biletleriniz, barkodlarınız ve kuponlarınız için akıllı cüzdanınız."
   },
   "nav": {
     "features": "Features",
@@ -17,19 +17,19 @@
     "items": [
       {
         "title": "Tüm Biletleriniz Tek Bir Yerde",
-        "desc": "QR kodlarınızı ve barkodlarınızı güvenli bir şekilde tek bir basit uygulamada saklayın."
+        "desc": "QR kodlarınızı ve barkodlarınızı güvenli bir şekilde tek ve basit bir uygulamada saklayın."
       },
       {
-        "title": "Konuma Dayalı Erişim",
-        "desc": "Doğru yere geldiğinizde biletiniz otomatik olarak görünür."
+        "title": "Konum Tabanlı Erişim",
+        "desc": "Biletiniz doğru yere vardığınızda otomatik olarak görünür."
       },
       {
         "title": "Hızlı ve Kolay Giriş",
         "desc": "Arama yapmaya gerek yok. Sadece uygulamayı açın ve kodunuzu anında gösterin."
       },
       {
-        "title": "Dünya Çapında Kullanıma Hazır",
-        "desc": "Dünya genelinde herhangi bir yerde kullanın: etkinlikler, seyahat, kuponlar ve daha fazlası."
+        "title": "Dünya Geneline Hazır",
+        "desc": "Dünya çapında herhangi bir yerde kullanın: etkinlikler, seyahat, kuponlar ve daha fazlası."
       }
     ]
   },
@@ -42,16 +42,16 @@
       },
       {
         "title": "Konuma Gidin",
-        "desc": "Mekana veya mağazaya gelin."
+        "desc": "Mekana veya mağazaya varın."
       },
       {
         "title": "Göster ve Gir",
-        "desc": "Geçişiniz otomatik olarak görüntülenecektir. Sadece gösterin ve geçin."
+        "desc": "Geçişiniz otomatik olarak görünür. Sadece gösterin ve girin."
       }
     ]
   },
   "footer": {
-    "copyright": "© 2026 PassPang. Tüm hakları saklıdır."
+    "copyright": "© 2026 FiveStar AI. Tüm hakları saklıdır. e-posta: anton@fivestaraicorp.com"
   },
   "language": {
     "label": "Language",

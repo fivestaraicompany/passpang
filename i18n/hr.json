@@ -1,11 +1,11 @@
 {
   "app": {
     "name": "PassPang",
-    "tagline": "Vaš pametni novčanik za QR kodove, barkodove i kupone."
+    "tagline": "Vaš pametni novčanik za QR ulaznice, barkodove i kupone."
   },
   "nav": {
     "features": "Features",
-    "howItWorks": "Kako funkcionira",
+    "howItWorks": "Kako radi",
     "download": "Download"
   },
   "cta": {
@@ -17,7 +17,7 @@
     "items": [
       {
         "title": "Sve vaše ulaznice na jednom mjestu",
-        "desc": "Sigurno pohranite QR kodove i barkodove u jednoj jednostavnoj aplikaciji."
+        "desc": "Sigurno pohranjujte QR kodove i barkodove u jednoj jednostavnoj aplikaciji."
       },
       {
         "title": "Pristup na temelju lokacije",
@@ -25,20 +25,20 @@
       },
       {
         "title": "Brz i jednostavan ulaz",
-        "desc": "Nema potrebe za pretraživanjem. Samo otvorite aplikaciju i odmah prikažite svoj kod."
+        "desc": "Nema potrebe za pretraživanjem. Samo otvorite aplikaciju i odmah pokažite svoj kod."
       },
       {
-        "title": "Spremni za korištenje u cijelom svijetu",
-        "desc": "Koristite bilo gdje u svijetu - za događaje, putovanja, kupone i još mnogo toga."
+        "title": "Spremni za cijeli svijet",
+        "desc": "Koristite bilo gdje u svijetu — događaji, putovanja, kuponi i još mnogo toga."
       }
     ]
   },
   "howItWorks": {
-    "title": "Kako to funkcionira",
+    "title": "Kako funkcionira",
     "steps": [
       {
         "title": "Dodajte ulaznicu",
-        "desc": "Skenirajte ili uvezite svoj QR-kod / barkod."
+        "desc": "Skenirajte ili uvezite svoj QR kod / barkod."
       },
       {
         "title": "Otiđite na lokaciju",
@@ -46,12 +46,12 @@
       },
       {
         "title": "Pokažite i uđite",
-        "desc": "Vaša propusnica se automatski prikazuje. Samo je pokažite i uđite."
+        "desc": "Vaša ulaznica pojavljuje se automatski. Samo je pokažite i uđite."
       }
     ]
   },
   "footer": {
-    "copyright": "© 2026 PassPang. Sva prava pridržana."
+    "copyright": "© 2026 FiveStar AI. Sva prava pridržana. e-pošta: anton@fivestaraicorp.com"
   },
   "language": {
     "label": "Language",

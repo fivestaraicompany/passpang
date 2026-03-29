@@ -9,8 +9,8 @@
     "download": "Download"
   },
   "cta": {
-    "download": "App downloaden",
-    "learnMore": "Meer informatie"
+    "download": "Download de app",
+    "learnMore": "Lees meer"
   },
   "features": {
     "title": "Features",
@@ -28,8 +28,8 @@
         "desc": "Geen zoeken. Open gewoon de app en laat direct je code zien."
       },
       {
-        "title": "Wereldwijd bruikbaar",
-        "desc": "Gebruik overal ter wereld - voor evenementen, reizen, kortingsbonnen en meer."
+        "title": "Wereldwijd te gebruiken",
+        "desc": "Gebruik het overal ter wereld — voor evenementen, reizen, kortingsbonnen en meer."
       }
     ]
   },
@@ -42,19 +42,19 @@
       },
       {
         "title": "Ga naar de locatie",
-        "desc": "Kom aan op de locatie of in de winkel."
+        "desc": "Kom aan bij de locatie of winkel."
       },
       {
         "title": "Tonen en binnengaan",
-        "desc": "Uw pas wordt automatisch weergegeven. Laat hem gewoon zien en ga naar binnen."
+        "desc": "Uw toegangsbewijs verschijnt automatisch. Laat het zien en ga verder."
       }
     ]
   },
   "footer": {
-    "copyright": "© 2026 PassPang. Alle rechten voorbehouden."
+    "copyright": "© 2026 FiveStar AI. Alle rechten voorbehouden. E-mail: anton@fivestaraicorp.com"
   },
   "language": {
     "label": "Language",
-    "select": "Selecteer een taal"
+    "select": "Selecteer taal"
   }
 }

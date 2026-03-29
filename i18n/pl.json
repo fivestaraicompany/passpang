@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "PassPang",
-    "tagline": "Inteligentny portfel na kody QR, kody kreskowe i kupony."
+    "tagline": "Twój inteligentny portfel na bilety QR, kody kreskowe i kupony."
   },
   "nav": {
     "features": "Features",
@@ -16,20 +16,20 @@
     "title": "Features",
     "items": [
       {
-        "title": "Wszystkie bilety w jednym miejscu",
+        "title": "Wszystkie Twoje bilety w jednym miejscu",
         "desc": "Przechowuj kody QR i kody kreskowe w bezpieczny sposób w jednej prostej aplikacji."
       },
       {
         "title": "Dostęp oparty na lokalizacji",
-        "desc": "Twój bilet wyświetla się automatycznie, gdy dotrzesz do właściwego miejsca."
+        "desc": "Twój bilet wyświetla się automatycznie, gdy dotrzesz w odpowiednie miejsce."
       },
       {
         "title": "Szybki i łatwy dostęp",
-        "desc": "Koniec z szukaniem. Wystarczy otworzyć aplikację i natychmiast wyświetlić kod."
+        "desc": "Nie musisz niczego szukać. Wystarczy otworzyć aplikację i natychmiast pokazać swój kod."
       },
       {
-        "title": "Gotowość do użytku na całym świecie",
-        "desc": "Używaj w dowolnym miejscu na świecie — na wydarzeniach, w podróży, przy użyciu kuponów i nie tylko."
+        "title": "Gotowy do użytku na całym świecie",
+        "desc": "Używaj go w dowolnym miejscu na świecie — na wydarzeniach, w podróży, korzystając z kuponów i wielu innych."
       }
     ]
   },
@@ -38,20 +38,20 @@
     "steps": [
       {
         "title": "Dodaj bilet",
-        "desc": "Zeskanuj lub zaimportuj swój kod QR / kod kreskowy."
+        "desc": "Zeskanuj lub zaimportuj kod QR / kod kreskowy."
       },
       {
-        "title": "Udaj się w wyznaczone miejsce",
-        "desc": "Przyjedź na miejsce lub do sklepu."
+        "title": "Przejdź do miejsca",
+        "desc": "Przyjedź do miejsca lub sklepu."
       },
       {
         "title": "Pokaż i wejdź",
-        "desc": "Twój bilet pojawi się automatycznie. Po prostu pokaż go i wejdź."
+        "desc": "Twój bilet wyświetli się automatycznie. Po prostu pokaż i wejdź."
       }
     ]
   },
   "footer": {
-    "copyright": "© 2026 PassPang. Wszelkie prawa zastrzeżone."
+    "copyright": "© 2026 FiveStar AI. Wszelkie prawa zastrzeżone. E-mail: anton@fivestaraicorp.com"
   },
   "language": {
     "label": "Language",

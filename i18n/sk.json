@@ -20,15 +20,15 @@
         "desc": "Bezpečne ukladajte QR kódy a čiarové kódy v jednej jednoduchej aplikácii."
       },
       {
-        "title": "Prístup založený na polohe",
+        "title": "Prístup na základe polohy",
         "desc": "Vaša vstupenka sa automaticky zobrazí, keď prídete na správne miesto."
       },
       {
         "title": "Rýchly a jednoduchý prístup",
-        "desc": "Už žiadne hľadanie. Stačí otvoriť aplikáciu a okamžite ukázať svoj kód."
+        "desc": "Už žiadne hľadanie. Jednoducho otvorte aplikáciu a okamžite zobrazte svoj kód."
       },
       {
-        "title": "Globálne pripravená",
+        "title": "Globálne pripravené",
         "desc": "Používajte kdekoľvek na svete – na podujatiach, počas cestovania, pre kupóny a ďalšie."
       }
     ]
@@ -37,21 +37,21 @@
     "title": "Ako to funguje",
     "steps": [
       {
-        "title": "Pridať vstupenku",
-        "desc": "Naskenujte alebo importujte svoj QR kód / čiarový kód."
+        "title": "Pridať lístok",
+        "desc": "Naskenujte alebo importujte svoj QR / čiarový kód."
       },
       {
         "title": "Prejdite na miesto",
         "desc": "Príďte na miesto konania alebo do obchodu."
       },
       {
-        "title": "Zobraziť a vstúpiť",
-        "desc": "Vaša vstupenka sa automaticky zobrazí. Stačí ju ukázať a môžete ísť dnu."
+        "title": "Ukážte a vstúpte",
+        "desc": "Váš lístok sa zobrazí automaticky. Stačí ho ukázať a vstúpiť."
       }
     ]
   },
   "footer": {
-    "copyright": "© 2026 PassPang. Všetky práva vyhradené."
+    "copyright": "© 2026 FiveStar AI. Všetky práva vyhradené. E-mail: anton@fivestaraicorp.com"
   },
   "language": {
     "label": "Language",

@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "PassPang",
-    "tagline": "A sua carteira inteligente para bilhetes QR, códigos de barras e cupões."
+    "tagline": "A sua carteira inteligente para bilhetes QR, códigos de barras e cupons."
   },
   "nav": {
     "features": "Features",
@@ -10,14 +10,14 @@
   },
   "cta": {
     "download": "Descarregar a aplicação",
-    "learnMore": "Saiba mais"
+    "learnMore": "Saber mais"
   },
   "features": {
     "title": "Features",
     "items": [
       {
         "title": "Todos os seus bilhetes num só lugar",
-        "desc": "Armazene códigos QR e códigos de barras em segurança numa única aplicação simples."
+        "desc": "Armazene códigos QR e códigos de barras de forma segura numa aplicação simples."
       },
       {
         "title": "Acesso baseado na localização",
@@ -25,11 +25,11 @@
       },
       {
         "title": "Entrada rápida e fácil",
-        "desc": "Sem necessidade de procurar. Basta abrir a aplicação e mostrar o seu código instantaneamente."
+        "desc": "Sem pesquisa. Basta abrir a aplicação e mostrar o seu código instantaneamente."
       },
       {
-        "title": "Pronto para uso em todo o mundo",
-        "desc": "Utilize em qualquer lugar do mundo — eventos, viagens, cupões e muito mais."
+        "title": "Pronto para usar em todo o mundo",
+        "desc": "Use em qualquer lugar do mundo: eventos, viagens, cupons e muito mais."
       }
     ]
   },
@@ -38,20 +38,20 @@
     "steps": [
       {
         "title": "Adicionar Bilhete",
-        "desc": "Digitalize ou importe o seu código QR / código de barras."
+        "desc": "Digitalize ou importe o seu código QR/código de barras."
       },
       {
         "title": "Dirija-se ao Local",
-        "desc": "Chegue ao local ou loja."
+        "desc": "Chegue ao local ou à loja."
       },
       {
-        "title": "Mostrar e Entrar",
-        "desc": "O seu passe aparece automaticamente. Apenas mostre e entre."
+        "title": "Apresentar e Entrar",
+        "desc": "O seu bilhete aparece automaticamente. Apenas apresente-o e entre."
       }
     ]
   },
   "footer": {
-    "copyright": "© 2026 PassPang. Todos os direitos reservados."
+    "copyright": "© 2026 FiveStar AI. Todos os direitos reservados. e-mail: anton@fivestaraicorp.com"
   },
   "language": {
     "label": "Language",

@@ -5,18 +5,18 @@
   },
   "nav": {
     "features": "Features",
-    "howItWorks": "Hogyan működik",
+    "howItWorks": "Működési elv",
     "download": "Download"
   },
   "cta": {
-    "download": "Töltse le az alkalmazást",
-    "learnMore": "Tudjon meg többet"
+    "download": "Alkalmazás letöltése",
+    "learnMore": "További információ"
   },
   "features": {
     "title": "Features",
     "items": [
       {
-        "title": "Minden jegye egy helyen",
+        "title": "Az összes jegye egy helyen",
         "desc": "Tárolja biztonságosan a QR-kódokat és vonkódokat egy egyszerű alkalmazásban."
       },
       {
@@ -25,33 +25,33 @@
       },
       {
         "title": "Gyors és egyszerű belépés",
-        "desc": "Nincs szükség keresésre. Csak nyissa meg az alkalmazást, és azonnal mutassa be a kódot."
+        "desc": "Nincs szükség keresésre. Egyszerűen nyissa meg az alkalmazást, és mutassa meg a kódot azonnal."
       },
       {
         "title": "Globálisan használható",
-        "desc": "Használható bárhol a világon – rendezvényeken, utazásokhoz, kuponokhoz és még sok máshoz."
+        "desc": "Használható bárhol a világon – rendezvények, utazás, kuponok és még sok más."
       }
     ]
   },
   "howItWorks": {
-    "title": "A működési elv",
+    "title": "Hogyan működik",
     "steps": [
       {
         "title": "Jegy hozzáadása",
-        "desc": "Olvassa be vagy importálja a QR-/vonkódját."
+        "desc": "Olvassa be vagy importálja a QR-kódot / vonalkódját."
       },
       {
         "title": "Menjen a helyszínre",
-        "desc": "Érkezzen meg a rendezvényhelyszínre vagy az üzletbe."
+        "desc": "Érkezzen a helyszínre vagy az üzletbe."
       },
       {
-        "title": "Mutassa be és lépjen be",
-        "desc": "A belépője automatikusan megjelenik. Csak mutassa be, és mehet."
+        "title": "Mutassa be és menjen be",
+        "desc": "A jegye automatikusan megjelenik. Csak mutassa be, és mehet."
       }
     ]
   },
   "footer": {
-    "copyright": "© 2026 PassPang. Minden jog fenntartva."
+    "copyright": "© 2026 FiveStar AI. Minden jog fenntartva. E-mail: anton@fivestaraicorp.com"
   },
   "language": {
     "label": "Language",

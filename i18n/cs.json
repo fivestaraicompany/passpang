@@ -9,8 +9,8 @@
     "download": "Download"
   },
   "cta": {
-    "download": "Stáhnout aplikaci",
-    "learnMore": "Zjistit více"
+    "download": "Stáhněte si aplikaci",
+    "learnMore": "Zjistěte více"
   },
   "features": {
     "title": "Features",
@@ -20,15 +20,15 @@
         "desc": "Bezpečně ukládejte QR kódy a čárové kódy v jedné jednoduché aplikaci."
       },
       {
-        "title": "Přístup na základě polohy",
+        "title": "Přístup na základě lokace",
         "desc": "Vaše vstupenka se automaticky zobrazí, když dorazíte na správné místo."
       },
       {
-        "title": "Rychlý a snadný vstup",
+        "title": "Rychlý a snadný přístup",
         "desc": "Už žádné hledání. Stačí otevřít aplikaci a okamžitě zobrazit svůj kód."
       },
       {
-        "title": "Globálně připraveno",
+        "title": "Připraveno pro celý svět",
         "desc": "Používejte kdekoli na světě – pro akce, cestování, kupóny a další."
       }
     ]
@@ -37,8 +37,8 @@
     "title": "Jak to funguje",
     "steps": [
       {
-        "title": "Přidat vstupenku",
-        "desc": "Naskenujte nebo importujte svůj QR kód / čárový kód."
+        "title": "Přidejte vstupenku",
+        "desc": "Naskenujte nebo importujte svůj QR / čárový kód."
       },
       {
         "title": "Přejděte na místo",
@@ -46,12 +46,12 @@
       },
       {
         "title": "Ukažte a vstupte",
-        "desc": "Vaše vstupenka se zobrazí automaticky. Jednoduše ji ukažte a vstupte."
+        "desc": "Vaše vstupenka se zobrazí automaticky. Stačí ji ukázat a jít dovnitř."
       }
     ]
   },
   "footer": {
-    "copyright": "© 2026 PassPang. Všechna práva vyhrazena."
+    "copyright": "© 2026 FiveStar AI. Všechna práva vyhrazena. e-mail: anton@fivestaraicorp.com"
   },
   "language": {
     "label": "Language",

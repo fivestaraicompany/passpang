@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "PassPang",
-    "tagline": "Din smarte tegnebog til QR-billetter, stregkoder og kuponer."
+    "tagline": "Din smarte pung til QR-billetter, stregkoder og rabatkoder."
   },
   "nav": {
     "features": "Features",
@@ -20,21 +20,21 @@
         "desc": "Gem QR-koder og stregkoder sikkert i én enkel app."
       },
       {
-        "title": "Placeringbaseret adgang",
+        "title": "Placeringsbaseret adgang",
         "desc": "Din billet vises automatisk, når du ankommer til det rigtige sted."
       },
       {
         "title": "Hurtig og nem adgang",
-        "desc": "Ingen søgning. Åbn blot appen og vis din kode med det samme."
+        "desc": "Ingen søgning. Bare åbn appen, og vis din kode med det samme."
       },
       {
-        "title": "Klar til global brug",
-        "desc": "Brug den overalt i verden – til arrangementer, rejser, kuponer og meget mere."
+        "title": "Klar til brug overalt",
+        "desc": "Brug den overalt i verden – til arrangementer, rejser, rabatkoder og meget mere."
       }
     ]
   },
   "howItWorks": {
-    "title": "Hvordan det fungerer",
+    "title": "Sådan fungerer det",
     "steps": [
       {
         "title": "Tilføj billet",
@@ -51,7 +51,7 @@
     ]
   },
   "footer": {
-    "copyright": "© 2026 PassPang. Alle rettigheder forbeholdes."
+    "copyright": "© 2026 FiveStar AI. Alle rettigheder forbeholdes. E-mail: anton@fivestaraicorp.com"
   },
   "language": {
     "label": "Language",

@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "PassPang",
-    "tagline": "Tu billetera inteligente para entradas QR, códigos de barras y cupones."
+    "tagline": "Tu billetera inteligente para entradas con códigos QR, códigos de barras y cupones."
   },
   "nav": {
     "features": "Features",
@@ -9,7 +9,7 @@
     "download": "Download"
   },
   "cta": {
-    "download": "Descargar la aplicación",
+    "download": "Descarga la aplicación",
     "learnMore": "Más información"
   },
   "features": {
@@ -24,8 +24,8 @@
         "desc": "Tu entrada aparece automáticamente cuando llegas al lugar correcto."
       },
       {
-        "title": "Entrada rápida y fácil",
-        "desc": "No más búsquedas. Simplemente abre la aplicación y muestra tu código al instante."
+        "title": "Entrada rápida y sencilla",
+        "desc": "No busques más. Simplemente abre la aplicación y muestra tu código al instante."
       },
       {
         "title": "Lista para usar en todo el mundo",
@@ -37,21 +37,21 @@
     "title": "Cómo funciona",
     "steps": [
       {
-        "title": "Agregar boleto",
-        "desc": "Escanear o importar su código QR / código de barras."
+        "title": "Agregar entrada",
+        "desc": "Escanea o importa tu código QR / código de barras."
       },
       {
-        "title": "Diríjase al lugar",
-        "desc": "Llegue al lugar o la tienda."
+        "title": "Dirígete a la ubicación",
+        "desc": "Llega al lugar o la tienda."
       },
       {
         "title": "Mostrar y entrar",
-        "desc": "Su pase aparecerá automáticamente. Simplemente muéstrelo y entre."
+        "desc": "Tu pase aparece automáticamente. Simplemente muéstralo y entra."
       }
     ]
   },
   "footer": {
-    "copyright": "© 2026 PassPang. Todos los derechos reservados."
+    "copyright": "© 2026 FiveStar AI. Todos los derechos reservados. Correo electrónico: anton@fivestaraicorp.com"
   },
   "language": {
     "label": "Language",

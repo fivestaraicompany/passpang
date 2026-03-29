@@ -17,19 +17,19 @@
     "items": [
       {
         "title": "Kaikki lippusi yhdessä paikassa",
-        "desc": "Tallenna QR-koodit ja viivakoodit turvallisesti yhteen yksinkertaiseen sovellukseen."
+        "desc": "Tallenna QR-koodit ja viivakoodit turvallisesti yhteen helppokäyttöiseen sovellukseen."
       },
       {
-        "title": "Sijaintipohjainen käyttö",
+        "title": "Sijaintiin perustuva pääsy",
         "desc": "Lippusi näkyy automaattisesti, kun saavut oikeaan paikkaan."
       },
       {
-        "title": "Nopea ja helppo pääsy",
-        "desc": "Ei tarvitse etsiä. Avaa vain sovellus ja näytä koodisi heti."
+        "title": "Nopea ja helppo sisäänpääsy",
+        "desc": "Ei enää etsimistä. Avaa vain sovellus ja näytä koodisi välittömästi."
       },
       {
-        "title": "Valmis käytettäväksi kaikkialla",
-        "desc": "Käytä missä tahansa maailmassa – tapahtumat, matkustaminen, kupongit ja paljon muuta."
+        "title": "Valmis käytettäväksi maailmanlaajuisesti",
+        "desc": "Käytä missä tahansa maailmassa – tapahtumissa, matkoilla, kupongeissa ja muussa."
       }
     ]
   },
@@ -38,20 +38,20 @@
     "steps": [
       {
         "title": "Lisää lippu",
-        "desc": "Skannaa tai tuo QR- tai viivakoodi."
+        "desc": "Skannaa tai lataa QR-/viivakoodisi."
       },
       {
         "title": "Siirry paikalle",
-        "desc": "Saavu tapahtumapaikalle tai myymälään."
+        "desc": "Saavu tapahtumapaikalle tai liikkeeseen."
       },
       {
-        "title": "Näytä ja siirry sisään",
+        "title": "Näytä ja mene",
         "desc": "Lippusi näkyy automaattisesti. Näytä se ja mene sisään."
       }
     ]
   },
   "footer": {
-    "copyright": "© 2026 PassPang. Kaikki oikeudet pidätetään."
+    "copyright": "© 2026 FiveStar AI. Kaikki oikeudet pidätetään. Sähköposti: anton@fivestaraicorp.com"
   },
   "language": {
     "label": "Language",
